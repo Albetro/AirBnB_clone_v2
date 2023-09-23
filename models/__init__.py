@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module instantiates an object of class FileStorage"""
+"""Module documentation Python package"""
 from models.engine.file_storage import FileStorage
 
 
